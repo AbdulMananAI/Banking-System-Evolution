@@ -140,6 +140,7 @@ void performTransaction(int option, int index, float &balance, float &currentBal
 }
 
 void showMainMenu() {
+    system("cls");
     cout << "********************************************************************************" << endl;
     cout << "                  WELCOME TO BANK MANAGEMENT SYSTEM" << endl;
     cout << "********************************************************************************" << endl;
