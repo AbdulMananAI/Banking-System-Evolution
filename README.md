@@ -4,6 +4,9 @@ This is a comprehensive cmd based banking application that manages user accounts
 🛠️ Current Features (C++ Legacy Version)
 User Authentication: Secure signup and login system.
 
+## 🎥 Demo
+[Watch the full video demonstration on my LinkedIn Profile 🚀]([PASTE_YOUR_LINKEDIN_LINK_HERE](https://www.linkedin.com/posts/abdul-manan-061928352_cpp-programming-uetlahore-activity-7428777434939936768-4mno?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFgO5EkB9EUUQO8h69xk3feYZHgczZWznK8))
+
 Transaction Logic: Deposits, withdrawals, and real-time balance checks.
 
 Data Persistence: Uses File Handling (.txt) to save and retrieve account data locally.
